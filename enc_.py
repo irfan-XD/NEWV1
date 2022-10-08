@@ -1,3 +1,6 @@
+#mau ricode ya cil awokawok 
+#kontol
+
 # Compile By AmmarrBN
 # https://github.com/AmmarrBN/Py-Fuscate
 # Make Sure You're Running The Program With python3.10 Otherwise It May Crash
